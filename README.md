@@ -1,4 +1,4 @@
-# TinyMind-start-with-0
+# TinyMind-start-from-scratch
 从零开始深度学习：TinyMind汉字书法识别
 
 操作步骤  
